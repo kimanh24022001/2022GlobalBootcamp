@@ -1,3 +1,5 @@
+## Team 1 Members:
+- Luca (Khac-Duy Nguyen)
 # 2022GlobalBootcamp
 Lecture material for Global Summer Bootcamp
 
